@@ -8,3 +8,6 @@
 ## 🔥 Contributors
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-) <br/>
 ![Contributors](https://contrib.rocks/image?repo=Muhammad-nabil99/RANOA-DEV)
+
+
+azis
